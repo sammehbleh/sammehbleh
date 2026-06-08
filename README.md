@@ -17,3 +17,6 @@
 ```💡 Architecture Vector: React.js // Node.js // TypeScript
 ⚡ Cloud Cluster: AWS Lambda // Amazon S3 // DynamoDB
 📐 Execution Pattern: Strict SDLC Ecosystems // Decoupled Systems Design
+
+```markdown
+   ![Contribution Snake](https://raw.githubusercontent.com/sammehbleh/sammehbleh/output/github-contribution-grid-snake-dark.svg)
