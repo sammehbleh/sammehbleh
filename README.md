@@ -1,26 +1,19 @@
-# ⚡ System.init() -> Cloud Developer Workspace
+<!-- HEADER BANNER ANIMATION -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3500&pause=1000&color=F7DF1E&center=true&vCenter=true&width=700&height=70&lines=CODENAME%3A+THE+GEARYARD;FULL+STACK+ENGINEER+%2F%2F+DEVOPS+INNOVATOR;SYSTEM+STATUS%3A+ACTIVE+..." alt="Typing SVG" />
+</p>
 
-<!-- SYSTEM METRICS SUB-HEADER -->
+<!-- SUBSYSTEM STATUS BAR -->
 <div align="center">
-  <img src="https://img.shields.io/badge/Status-Online-success?style=flat-square&logo=gitbook&logoColor=white" alt="Status">
-  <img src="https://img.shields.io/badge/Environment-Production-blue?style=flat-square&logo=amazon-aws&logoColor=white" alt="Environment">
-  <img src="https://img.shields.io/badge/Main_Focus-Full--Stack_/_Serverless-orange?style=flat-square" alt="Focus">
+  <img src="https://img.shields.io/badge/SECURITY-VERIFIED-black?style=flat-square&colorA=111111&colorB=F7DF1E" alt="Security Verified">
+  <img src="https://img.shields.io/badge/ENVIRONMENT-PRODUCTION-black?style=flat-square&colorA=111111&colorB=F7DF1E" alt="Environment Production">
+  <img src="https://img.shields.io/badge/CORE-SERVERLESS_%2F_DECOUPLED-black?style=flat-square&colorA=111111&colorB=F7DF1E" alt="Core Target">
 </div>
 
 ---
 
-### 🖥️ `$ whoami`
+### 📡 System Initializing ...
 
-> **Active Session:** Project Manager & Back-end Developer
-> Focused on creating decoupled web applications, high-availability serverless architectures, and maintaining rigorous SDLC documentation standards from conceptual schema to deployment.
-
-- 🛠️ **Current Architecture Focus:** Decoupled single-page applications integrated with event-driven, serverless cloud backends.
-- 📐 **Methodology:** Adherent to clean system design metrics, structured relational/non-relational database modeling, and strict UML standards.
-
----
-
-### 🧰 Tech Stack Components
-
-```💡 Core Engine: React.js | Node.js | TypeScript
-📂 Cloud Architecture: AWS Lambda | Amazon S3 | DynamoDB
-🔌 System Design: RESTful APIs | Decoupled Ecosystems | Event-Driven Backends
+```💡 Architecture Vector: React.js // Node.js // TypeScript
+⚡ Cloud Cluster: AWS Lambda // Amazon S3 // DynamoDB
+📐 Execution Pattern: Strict SDLC Ecosystems // Decoupled Systems Design
