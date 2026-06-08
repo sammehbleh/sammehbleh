@@ -1,6 +1,6 @@
 <!-- HEADER BANNER ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3500&pause=1000&color=F7DF1E&center=true&vCenter=true&width=700&height=70&lines=CODENAME%3A+THE+GEARYARD;FULL+STACK+ENGINEER+%2F%2F+DEVOPS+INNOVATOR;SYSTEM+STATUS%3A+ACTIVE+..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3500&pause=1000&color=F7DF1E&center=true&vCenter=true&width=700&height=70&lines=CODENAME%3A+SAMIE;BACKEND DEVELOPER+%2F%2F+PROJECT MANAGER +%2F%2F+INNOVATOR;SYSTEM+STATUS%3A+ACTIVE+..." alt="Typing SVG" />
 </p>
 
 <!-- SUBSYSTEM STATUS BAR -->
